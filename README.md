@@ -1,3 +1,3 @@
 # python
 
-Arquivos de estudos da linguagem python
+Arquivos de estudos da linguagem python (Basico)
